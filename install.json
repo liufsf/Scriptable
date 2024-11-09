@@ -4,231 +4,61 @@
   "repo": "https://github.com/2214962083/ios-scriptable-tsx",
   "icon": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
   "apps": [
-{
-  "version": "1.0.5",
-  "urls": [],
-  "effect": true,
-  "music": false,
-  "alwaysDark": false,
-  "items": [
     {
-      "label": "中国联通",
-      "desc": "剩余流量、语音、余额",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_china_unicom.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/china_unicom.png"
-    },
-    {
-      "label": "中国电信_3",
-      "desc": "剩余流量、语音、余额",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_china_telecom_3.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/telecom.png"
-    },
-    {
-      "label": "交管12123",
-      "desc": "违章信息、驾驶证信息",
-      "version": "1.2.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_12123.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/12123.png"
-    },
-    {
-      "label": "全国油价_2",
-      "desc": "每日油价，油价预警",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_oil_price.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/oilPrice2.png"
-    },
-    {
-      "label": "高德智慧交通",
-      "desc": "普通、快速、高速路通行实况",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/congest_4.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/aMap.png"
-    },
-    {
-      "label": "高德家人地图",
-      "desc": "位置、天气、步数、状态",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "random": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_amap_family.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/aMap_1.png"
-    },
-    {
-      "label": "重点区域实况",
-      "desc": "旅游景区，客运枢纽、购物中心",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "random": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/congest_3.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/gateway.jpeg"
-    },
-    {
-      "label": "城市通行实况",
-      "desc": "城市实时拥堵，早晚高峰",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/congest_2.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/baidu_map.png"
-    },
-    {
-      "label": "景区通行实况",
-      "desc": "重点城市景区实时拥堵",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/congest_1.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/scenic_area.png"
-    },
-    {
-      "label": "百度智慧交通",
-      "desc": "全国重点城市实时拥堵",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/congest.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/baidu_map.png"
-    },
-    {
-      "label": "车辆_GPS",
-      "desc": "行车速度，实时定位",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "random": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_GPS.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/gps_location.png"
-    },
-    {
-      "label": "节日倒计时",
-      "desc": "节日，西方节日，节气",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/festival.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/festival.png"
-    },
-    {
-      "label": "开奖结果",
-      "desc": "体育彩票、福利彩票",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/web_module_lottery.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/lottery.png"
-    },
-    {
-      "label": "中国电信_2",
-      "desc": "剩余流量、语音、余额",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_china_telecom.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/telecom_2.png"
-    },
-    {
-      "label": "市值股票",
-      "desc": "美股港股全球 Top80",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "random": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_marketCap.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/marketCap.png"
-    },
-    {
-      "label": "豆瓣电影_Top250",
-      "desc": "随机显示250部电影",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "random": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/douban_top250.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/douban.png"
-    },
-    {
-      "label": "人民币汇率",
-      "desc": "常用国际货币汇率",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_exchange_rate.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/exchange_rate.png"
-    },
-    {
-      "label": "埃隆·马斯克",
-      "desc": "最新前沿科技资讯",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "random": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/elonMusk_info.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/AI.jpeg"
-    },
-    {
-      "label": "负一屏底栏",
-      "desc": "显示未来两小时天气",
-      "version": "1.5.0",
-      "type": "button",
-      "recommend": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/bottomBar.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/bottomBars.png"
-    },
-    {
-      "label": "南网在线",
-      "desc": "昨日用电量，账单",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "random": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_powerGrid.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/electric.png"
-    },
-    {
-      "label": "循环组件",
-      "desc": "循环切换显示小组件",
       "version": "1.0.0",
-      "type": "button",
-      "recommend": true,
-      "random": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/widget/loopScripts.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/loopScript.png"
+      "description": "小明出品，必属精品",
+      "scriptURL": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_china_unicom.js",
+      "thumb": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
+      "name": "中国联通",
+      "title": "联通"
     },
     {
-      "label": "京东收支账单",
-      "desc": "每月收支账单、白条",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "random": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_jingDong_bill.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/jingDong.png"
+      "version": "1.0.0",
+      "description": "小明出品，必属精品",
+      "scriptURL": "https://raw.githubusercontent.com/2214962083/ios-scriptable-tsx/master/打包好的成品/个性磁贴启动器.js",
+      "thumb": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
+      "name": "个性磁贴启动器",
+      "title": "个性磁贴启动器"
     },
     {
-      "label": "京东小白鹅",
-      "desc": "白条信息、白条等级",
-      "version": "1.1.0",
-      "type": "button",
-      "recommend": true,
-      "random": true,
-      "scrUrl": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_jingDong_baiTiao.js",
-      "icon": "https://raw.githubusercontent.com/95du/scripts/master/img/icon/jingDong.png"
+      "version": "1.0.0",
+      "description": "小明出品，必属精品",
+      "scriptURL": "https://raw.githubusercontent.com/2214962083/ios-scriptable-tsx/master/打包好的成品/今日热榜.js",
+      "thumb": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
+      "name": "今日热榜",
+      "title": "今日热榜"
+    },
+    {
+      "version": "1.0.0",
+      "description": "小明出品，必属精品",
+      "scriptURL": "https://raw.githubusercontent.com/2214962083/ios-scriptable-tsx/master/打包好的成品/哔哩粉丝.js",
+      "thumb": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
+      "name": "哔哩粉丝",
+      "title": "哔哩粉丝"
+    },
+    {
+      "version": "1.0.0",
+      "description": "小明出品，必属精品",
+      "scriptURL": "https://raw.githubusercontent.com/2214962083/ios-scriptable-tsx/master/打包好的成品/基金小部件.js",
+      "thumb": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
+      "name": "基金小部件",
+      "title": "基金小部件"
+    },
+    {
+      "version": "1.0.0",
+      "description": "小明出品，必属精品",
+      "scriptURL": "https://raw.githubusercontent.com/2214962083/ios-scriptable-tsx/master/打包好的成品/网易云歌单.js",
+      "thumb": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
+      "name": "网易云歌单",
+      "title": "网易云歌单"
+    },
+    {
+      "version": "1.0.0",
+      "description": "小明出品，必属精品",
+      "scriptURL": "https://raw.githubusercontent.com/2214962083/ios-scriptable-tsx/master/打包好的成品/联通流量话费小部件.js",
+      "thumb": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
+      "name": "联通流量话费小部件",
+      "title": "联通流量话费小部件"
     }
-  ],
-  "exit": true
+  ]
 }
-    }
