@@ -1,4 +1,10 @@
 {
+  "author": "95du",
+  "scriptable": true,
+  "repo": "https://github.com/2214962083/ios-scriptable-tsx",
+  "icon": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
+  "apps": [
+{
   "version": "1.0.5",
   "urls": [],
   "effect": true,
@@ -225,3 +231,4 @@
   ],
   "exit": true
 }
+    }
