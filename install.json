@@ -1,24 +1,24 @@
 {
-  "author": "葬爱非主流小明",
+  "author": "95du",
   "scriptable": true,
   "repo": "https://github.com/2214962083/ios-scriptable-tsx",
   "icon": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
   "apps": [
     {
       "version": "1.0.0",
-      "description": "小明出品，必属精品",
-      "scriptURL": "https://raw.githubusercontent.com/2214962083/ios-scriptable-tsx/master/打包好的成品/一言.js",
+      "description": "95du精品",
+      "scriptURL": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_china_unicom.js",
       "thumb": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
-      "name": "一言",
-      "title": "一言"
+      "name": "中国联通",
+      "title": "中国联通"
     },
     {
       "version": "1.0.0",
-      "description": "小明出品，必属精品",
-      "scriptURL": "https://raw.githubusercontent.com/2214962083/ios-scriptable-tsx/master/打包好的成品/个性磁贴启动器.js",
+      "description": "95du精品",
+      "scriptURL": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_china_telecom_3.js",
       "thumb": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
-      "name": "个性磁贴启动器",
-      "title": "个性磁贴启动器"
+      "name": "中国电信3",
+      "title": "中国电信3"
     },
     {
       "version": "1.0.0",
