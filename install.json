@@ -6,7 +6,7 @@
   "apps": [
     {
       "version": "1.0.0",
-      "description": "95du",
+      "description": "小明出品，必属精品",
       "scriptURL": "https://raw.githubusercontent.com/95du/scripts/master/run/web_module_china_unicom.js",
       "thumb": "https://p.pstatp.com/origin/fe4400034e131f9e4e45",
       "name": "中国联通",
